@@ -1,0 +1,5 @@
+# タイトル
+
+```ghost
+basic.clearScreen()
+```
